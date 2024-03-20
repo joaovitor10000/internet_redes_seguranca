@@ -21,7 +21,7 @@ body {
 }
 .image{
     float:left;
-    margin-right:250px;   
+    margin-right:10px;   
 }
 .logo {
     display: flex;
